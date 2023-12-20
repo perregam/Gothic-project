@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>radcliffe_udolpho.pdf_page_30.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1773" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1774" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/>
+    <OtherTag ID="LT748" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT749" LABEL="NumberingLine" DESCRIPTION="line type NumberingLine"/><OtherTag ID="LT750" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="455"
+                   VPOS="282"
+                   WIDTH="1651"
+                   HEIGHT="2679"
+                   ID="eSc_textblock_f149b594"
+                   TAGREFS="BT1773">
+          <Shape><Polygon POINTS="455 282 465 2961 2106 2961 2106 282"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ccbeea61"
+                    TAGREFS="LT750"
+                    BASELINE="594 341 2090 341" 
+                    HPOS="594"
+                    VPOS="299"
+                    WIDTH="1496"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1969 319 1942 319 1914 319 1887 316 1859 316 1832 316 1804 316 1777 316 1749 316 1722 313 1694 313 1666 313 1639 313 1611 313 1584 313 1556 313 1529 310 1501 310 1474 310 1446 310 1419 310 1391 310 1364 310 1336 308 1309 308 1281 308 1254 308 1226 308 1199 308 1171 308 1144 305 1116 305 1089 305 1061 305 1034 305 1006 305 979 305 951 302 924 302 896 302 869 302 841 302 814 302 786 299 759 299 731 299 704 299 676 299 649 299 621 299 594 310 594 341 594 357 2090 357 2090 341 1972 319 1969 319"/></Shape>
+	    <String CONTENT="The travellers passed an agreeable evening; but St. Aubert was fatigued with his"
+                    HPOS="594"
+                    VPOS="299"
+                    WIDTH="1496"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95040c88"
+                    TAGREFS="LT750"
+                    BASELINE="462 396 2087 390" 
+                    HPOS="462"
+                    VPOS="349"
+                    WIDTH="1625"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="541 354 514 357 486 360 462 396 462 418 2085 404 2087 390 2079 349 544 349 541 354"/></Shape>
+	    <String CONTENT="journey, and as Valancourt seemed again sensible of pain, they separated soon after"
+                    HPOS="462"
+                    VPOS="349"
+                    WIDTH="1625"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa693875"
+                    TAGREFS="LT750"
+                    BASELINE="462 451 607 451" 
+                    HPOS="462"
+                    VPOS="407"
+                    WIDTH="145"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="462 451 462 464 607 464 607 451 607 407 484 407 462 451"/></Shape>
+	    <String CONTENT="supper."
+                    HPOS="462"
+                    VPOS="407"
+                    WIDTH="145"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91a9928c"
+                    TAGREFS="LT750"
+                    BASELINE="594 500 2082 495" 
+                    HPOS="591"
+                    VPOS="451"
+                    WIDTH="1491"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="594 500 594 517 2079 517 2082 495 2076 453 591 451 594 500"/></Shape>
+	    <String CONTENT="In the morning, St. Aubert found that Valancourt had passed a restless night;"
+                    HPOS="591"
+                    VPOS="451"
+                    WIDTH="1491"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ccd0e1e0"
+                    TAGREFS="LT750"
+                    BASELINE="464 550 2082 555" 
+                    HPOS="462"
+                    VPOS="506"
+                    WIDTH="1620"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="464 550 462 561 2076 566 2082 555 2079 511 464 506 464 550"/></Shape>
+	    <String CONTENT="that he was feverish, and his wound very painful. The surgeon, when he dressed it,"
+                    HPOS="462"
+                    VPOS="506"
+                    WIDTH="1620"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c71c78e8"
+                    TAGREFS="LT750"
+                    BASELINE="462 605 2087 605" 
+                    HPOS="462"
+                    VPOS="563"
+                    WIDTH="1625"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="462 605 462 618 2087 618 2087 605 2087 563 481 563 462 605"/></Shape>
+	    <String CONTENT="advised him to remain quietly at Beaujeu; advice which was too reasonable to be"
+                    HPOS="462"
+                    VPOS="563"
+                    WIDTH="1625"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8efe3eb5"
+                    TAGREFS="LT750"
+                    BASELINE="464 660 2087 654" 
+                    HPOS="462"
+                    VPOS="613"
+                    WIDTH="1625"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="464 660 464 673 2085 668 2087 654 2079 613 462 616 464 660"/></Shape>
+	    <String CONTENT="rejected. St. Aubert, however, had no favourable opinion of this practitioner, and was"
+                    HPOS="462"
+                    VPOS="613"
+                    WIDTH="1625"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_909c4dee"
+                    TAGREFS="LT750"
+                    BASELINE="464 709 2085 709" 
+                    HPOS="464"
+                    VPOS="668"
+                    WIDTH="1621"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="464 709 464 726 2085 726 2085 709 2085 668 464 668 464 709"/></Shape>
+	    <String CONTENT=" anxious to commit Valancourt into more skilful hands; but, learning upon inquiry that"
+                    HPOS="464"
+                    VPOS="668"
+                    WIDTH="1621"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1c60559"
+                    TAGREFS="LT750"
+                    BASELINE="464 764 2085 764" 
+                    HPOS="464"
+                    VPOS="720"
+                    WIDTH="1621"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="464 764 464 778 2085 778 2085 764 2085 720 464 720 464 764"/></Shape>
+	    <String CONTENT="there was no town within several leagues, which seemed more like to afford better"
+                    HPOS="464"
+                    VPOS="720"
+                    WIDTH="1621"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87921657"
+                    TAGREFS="LT750"
+                    BASELINE="464 819 2090 814" 
+                    HPOS="462"
+                    VPOS="767"
+                    WIDTH="1628"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="464 819 464 830 2087 825 2090 814 2082 767 462 775 464 819"/></Shape>
+	    <String CONTENT="advice, he altered the plan of his journey, and determined to await the recovery of"
+                    HPOS="462"
+                    VPOS="767"
+                    WIDTH="1628"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf0c16db"
+                    TAGREFS="LT750"
+                    BASELINE="470 866 2090 871" 
+                    HPOS="467"
+                    VPOS="819"
+                    WIDTH="1623"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1103 819 1075 819 1048 819 1020 819 993 819 965 819 938 819 910 819 883 819 855 819 827 819 800 819 772 819 745 819 717 819 690 819 662 819 635 819 607 819 580 819 552 819 525 819 497 819 470 819 470 866 467 877 2085 882 2090 871 2087 827 1116 819 1103 819"/></Shape>
+	    <String CONTENT="Valancourt, who, with somewhat more ceremony than sincerity, made many objections"
+                    HPOS="467"
+                    VPOS="819"
+                    WIDTH="1623"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3aa3caf9"
+                    TAGREFS="LT750"
+                    BASELINE="464 924 709 918" 
+                    HPOS="462"
+                    VPOS="877"
+                    WIDTH="247"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="464 924 464 932 709 926 709 918 701 877 462 880 464 924"/></Shape>
+	    <String CONTENT="to this delay."
+                    HPOS="462"
+                    VPOS="877"
+                    WIDTH="247"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5a2f113"
+                    TAGREFS="LT750"
+                    BASELINE="594 973 2082 973" 
+                    HPOS="594"
+                    VPOS="924"
+                    WIDTH="1488"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="594 973 594 990 2082 990 2082 973 2082 929 594 924 594 973"/></Shape>
+	    <String CONTENT=" By order of his surgeon, Valancourt did not go out of the house that day; but St."
+                    HPOS="594"
+                    VPOS="924"
+                    WIDTH="1488"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e3a61ef"
+                    TAGREFS="LT750"
+                    BASELINE="462 1025 2093 1025" 
+                    HPOS="462"
+                    VPOS="981"
+                    WIDTH="1631"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="462 1025 462 1042 2093 1042 2093 1025 2090 981 473 981 462 1025"/></Shape>
+	    <String CONTENT="Aubert and Emily surveyed with delight the environs of the town, situated at the feet of"
+                    HPOS="462"
+                    VPOS="981"
+                    WIDTH="1631"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8dbf125f"
+                    TAGREFS="LT750"
+                    BASELINE="464 1080 2087 1080" 
+                    HPOS="464"
+                    VPOS="1036"
+                    WIDTH="1623"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="464 1080 464 1094 2087 1094 2087 1080 2087 1036 464 1036 464 1080"/></Shape>
+	    <String CONTENT="the Pyrenean Alps, that rose some in abrupt precipices, and others swelling with woods"
+                    HPOS="464"
+                    VPOS="1036"
+                    WIDTH="1623"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3b4488c"
+                    TAGREFS="LT750"
+                    BASELINE="464 1133 2085 1133" 
+                    HPOS="464"
+                    VPOS="1089"
+                    WIDTH="1621"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="464 1133 464 1146 2085 1146 2085 1133 2085 1089 464 1089 464 1133"/></Shape>
+	    <String CONTENT="of cedar, fir, and cypress, which stretched nearly to their highest summits. The cheerful"
+                    HPOS="464"
+                    VPOS="1089"
+                    WIDTH="1621"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8aaeddc4"
+                    TAGREFS="LT750"
+                    BASELINE="464 1188 2085 1179" 
+                    HPOS="462"
+                    VPOS="1138"
+                    WIDTH="1623"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="464 1188 464 1204 2082 1193 2085 1179 2076 1138 462 1144 464 1188"/></Shape>
+	    <String CONTENT="green of the beech and mountain-ash was sometimes seen, like a gleam of light, amidst"
+                    HPOS="462"
+                    VPOS="1138"
+                    WIDTH="1623"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5f6474d"
+                    TAGREFS="LT750"
+                    BASELINE="467 1234 2082 1240" 
+                    HPOS="464"
+                    VPOS="1190"
+                    WIDTH="1618"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="467 1234 464 1245 2076 1251 2082 1240 2079 1196 467 1190 467 1234"/></Shape>
+	    <String CONTENT="the dark verdure of the forest; and sometimes a torrent poured its sparkling flood high"
+                    HPOS="464"
+                    VPOS="1190"
+                    WIDTH="1618"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05cf6cf1"
+                    TAGREFS="LT750"
+                    BASELINE="464 1292 808 1292" 
+                    HPOS="464"
+                    VPOS="1248"
+                    WIDTH="344"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="464 1292 464 1306 808 1306 808 1292 808 1248 464 1248 464 1292"/></Shape>
+	    <String CONTENT=" among the woods."
+                    HPOS="464"
+                    VPOS="1248"
+                    WIDTH="344"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcffa3eb"
+                    TAGREFS="LT750"
+                    BASELINE="596 1344 2085 1339" 
+                    HPOS="594"
+                    VPOS="1295"
+                    WIDTH="1491"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="596 1344 596 1358 2082 1355 2085 1339 2079 1298 594 1295 596 1344"/></Shape>
+	    <String CONTENT="Valancourt’s indisposition detained the travellers at Beaujeu several days,"
+                    HPOS="594"
+                    VPOS="1295"
+                    WIDTH="1491"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b89835e8"
+                    TAGREFS="LT750"
+                    BASELINE="462 1397 2085 1397" 
+                    HPOS="462"
+                    VPOS="1353"
+                    WIDTH="1623"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="462 1397 462 1410 2085 1410 2085 1397 2085 1353 473 1353 462 1397"/></Shape>
+	    <String CONTENT="during which interval St. Aubert had observed his disposition and his talents with the"
+                    HPOS="462"
+                    VPOS="1353"
+                    WIDTH="1623"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a284455b"
+                    TAGREFS="LT750"
+                    BASELINE="462 1449 2087 1449" 
+                    HPOS="462"
+                    VPOS="1399"
+                    WIDTH="1625"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="462 1449 462 1465 2087 1460 2087 1449 2085 1399 484 1402 462 1449"/></Shape>
+	    <String CONTENT="philosophic inquiry so natural to him. He saw a frank and generous nature, full of"
+                    HPOS="462"
+                    VPOS="1399"
+                    WIDTH="1625"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a4bbbc9"
+                    TAGREFS="LT750"
+                    BASELINE="464 1501 2087 1501" 
+                    HPOS="464"
+                    VPOS="1457"
+                    WIDTH="1623"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="464 1501 464 1515 2087 1515 2087 1501 2087 1457 464 1457 464 1501"/></Shape>
+	    <String CONTENT=" ardour, highly susceptible of whatever is grand and beautiful, but impetuous, wild, and"
+                    HPOS="464"
+                    VPOS="1457"
+                    WIDTH="1623"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31f36555"
+                    TAGREFS="LT750"
+                    BASELINE="464 1556 2087 1556" 
+                    HPOS="464"
+                    VPOS="1509"
+                    WIDTH="1623"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="464 1556 464 1570 2087 1570 2087 1556 2087 1509 464 1509 464 1556"/></Shape>
+	    <String CONTENT="somewhat romantic. Valancourt had known little of the world. His perceptions were"
+                    HPOS="464"
+                    VPOS="1509"
+                    WIDTH="1623"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5668ad5"
+                    TAGREFS="LT750"
+                    BASELINE="462 1608 2085 1603" 
+                    HPOS="462"
+                    VPOS="1559"
+                    WIDTH="1623"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="462 1608 462 1622 2082 1617 2085 1603 2079 1562 484 1559 462 1608"/></Shape>
+	    <String CONTENT="clear, and his feelings just; his indignation of an unworthy or his admiration of a"
+                    HPOS="462"
+                    VPOS="1559"
+                    WIDTH="1623"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ed26b90"
+                    TAGREFS="LT750"
+                    BASELINE="464 1661 2085 1655" 
+                    HPOS="462"
+                    VPOS="1614"
+                    WIDTH="1623"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="464 1661 464 1677 2082 1669 2085 1655 2076 1614 462 1617 464 1661"/></Shape>
+	    <String CONTENT="generous action were expressed in terms of equal vehemence. St Aubert sometimes"
+                    HPOS="462"
+                    VPOS="1614"
+                    WIDTH="1623"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d46db0b9"
+                    TAGREFS="LT750"
+                    BASELINE="467 1707 2087 1713" 
+                    HPOS="464"
+                    VPOS="1663"
+                    WIDTH="1623"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="467 1707 464 1721 2082 1724 2087 1713 2085 1669 467 1663 467 1707"/></Shape>
+	    <String CONTENT="smiled at his warmth, but seldom checked it; and often repeated to himself, “This"
+                    HPOS="464"
+                    VPOS="1663"
+                    WIDTH="1623"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a990d0f7"
+                    TAGREFS="LT750"
+                    BASELINE="464 1765 2079 1760" 
+                    HPOS="462"
+                    VPOS="1718"
+                    WIDTH="1617"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="464 1765 464 1784 2076 1776 2079 1760 2071 1718 462 1721 464 1765"/></Shape>
+	    <String CONTENT="young man has never been at Paris.&quot; A sigh sometimes followed this silent ejaculation."
+                    HPOS="462"
+                    VPOS="1718"
+                    WIDTH="1617"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a8d0426"
+                    TAGREFS="LT750"
+                    BASELINE="464 1817 2085 1812" 
+                    HPOS="462"
+                    VPOS="1771"
+                    WIDTH="1623"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="464 1817 464 1831 2082 1826 2085 1812 2076 1771 462 1771 464 1817"/></Shape>
+	    <String CONTENT="He determined not to leave Valancourt till he should be perfectly recovered; and, as he"
+                    HPOS="462"
+                    VPOS="1771"
+                    WIDTH="1623"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63b2937c"
+                    TAGREFS="LT750"
+                    BASELINE="467 1870 2087 1870" 
+                    HPOS="467"
+                    VPOS="1826"
+                    WIDTH="1620"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="467 1870 467 1886 2087 1886 2087 1870 2087 1826 467 1826 467 1870"/></Shape>
+	    <String CONTENT="was now well enough to travel, though not able to manage his horse, St. Aubert invited"
+                    HPOS="467"
+                    VPOS="1826"
+                    WIDTH="1620"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a32e4b6c"
+                    TAGREFS="LT750"
+                    BASELINE="464 1925 2085 1925" 
+                    HPOS="464"
+                    VPOS="1875"
+                    WIDTH="1621"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="464 1925 464 1938 2085 1938 2085 1925 2085 1881 464 1875 464 1925"/></Shape>
+	    <String CONTENT=" him to accompany him for a few days in the carriage. This he the more readily did,"
+                    HPOS="464"
+                    VPOS="1875"
+                    WIDTH="1621"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd54aa42"
+                    TAGREFS="LT750"
+                    BASELINE="467 1977 2079 1971" 
+                    HPOS="464"
+                    VPOS="1930"
+                    WIDTH="1615"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="467 1977 467 1993 2076 1993 2079 1971 2071 1930 464 1933 467 1977"/></Shape>
+	    <String CONTENT="since he had discovered that Valancourt was of a family of the same name in Gascony,"
+                    HPOS="464"
+                    VPOS="1930"
+                    WIDTH="1615"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3e695bd"
+                    TAGREFS="LT750"
+                    BASELINE="467 2024 2082 2029" 
+                    HPOS="464"
+                    VPOS="1980"
+                    WIDTH="1618"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="467 2024 464 2035 2076 2040 2082 2029 2079 1985 467 1980 467 2024"/></Shape>
+	    <String CONTENT="with whose respectability he was well acquainted. The latter accepted the offer with"
+                    HPOS="464"
+                    VPOS="1980"
+                    WIDTH="1618"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4937c5be"
+                    TAGREFS="LT750"
+                    BASELINE="464 2084 2087 2079" 
+                    HPOS="462"
+                    VPOS="2037"
+                    WIDTH="1625"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="464 2084 464 2101 2085 2090 2087 2079 2079 2037 462 2040 464 2084"/></Shape>
+	    <String CONTENT="great pleasure, and they again set forward among these romantic wilds towards"
+                    HPOS="462"
+                    VPOS="2037"
+                    WIDTH="1625"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10d728c2"
+                    TAGREFS="LT750"
+                    BASELINE="462 2136 684 2136" 
+                    HPOS="462"
+                    VPOS="2095"
+                    WIDTH="222"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="462 2136 462 2150 684 2150 684 2136 684 2095 481 2095 462 2136"/></Shape>
+	    <String CONTENT="Roussillon."
+                    HPOS="462"
+                    VPOS="2095"
+                    WIDTH="222"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5b9269e"
+                    TAGREFS="LT750"
+                    BASELINE="596 2186 2087 2178" 
+                    HPOS="594"
+                    VPOS="2136"
+                    WIDTH="1493"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="676 2139 649 2139 621 2139 594 2139 596 2186 596 2200 2085 2191 2087 2178 2082 2139 676 2136 676 2139"/></Shape>
+	    <String CONTENT="They travelled leisurely, stopping wherever a scene uncommonly grand"
+                    HPOS="594"
+                    VPOS="2136"
+                    WIDTH="1493"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a68c739"
+                    TAGREFS="LT750"
+                    BASELINE="464 2241 2082 2241" 
+                    HPOS="464"
+                    VPOS="2197"
+                    WIDTH="1618"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="464 2241 464 2252 2079 2255 2082 2241 2082 2197 464 2197 464 2241"/></Shape>
+	    <String CONTENT="appeared; frequently alighting to walk to an eminence, whither the mules could not go,"
+                    HPOS="464"
+                    VPOS="2197"
+                    WIDTH="1618"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23bd2c7b"
+                    TAGREFS="LT750"
+                    BASELINE="464 2293 2085 2288" 
+                    HPOS="462"
+                    VPOS="2246"
+                    WIDTH="1623"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="2057 2246 462 2249 464 2293 464 2307 2082 2301 2085 2288 2082 2282 2057 2246"/></Shape>
+	    <String CONTENT="from which the prospect opened in greater magnificence; and often sauntering over"
+                    HPOS="462"
+                    VPOS="2246"
+                    WIDTH="1623"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06e115b2"
+                    TAGREFS="LT750"
+                    BASELINE="464 2345 2085 2340" 
+                    HPOS="462"
+                    VPOS="2299"
+                    WIDTH="1623"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="2071 2299 462 2299 464 2345 464 2359 2082 2354 2085 2340 2079 2301 2071 2299"/></Shape>
+	    <String CONTENT="hillocks covered with lavender, wild thyme, juniper, and tamarisk, and under the"
+                    HPOS="462"
+                    VPOS="2299"
+                    WIDTH="1623"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_858cd9b0"
+                    TAGREFS="LT750"
+                    BASELINE="464 2398 2090 2398" 
+                    HPOS="464"
+                    VPOS="2354"
+                    WIDTH="1626"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="464 2398 464 2411 2090 2411 2090 2398 2090 2354 464 2354 464 2398"/></Shape>
+	    <String CONTENT="shades of woods, between whose boles they caught the long mountain vista, sublime"
+                    HPOS="464"
+                    VPOS="2354"
+                    WIDTH="1626"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88ae79e6"
+                    TAGREFS="LT750"
+                    BASELINE="464 2453 1328 2444" 
+                    HPOS="462"
+                    VPOS="2403"
+                    WIDTH="866"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="464 2453 464 2466 1325 2464 1328 2444 1320 2403 462 2403 464 2453"/></Shape>
+	    <String CONTENT="beyond anything that Emily had ever imagined."
+                    HPOS="462"
+                    VPOS="2403"
+                    WIDTH="866"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e820b7a4"
+                    TAGREFS="LT750"
+                    BASELINE="594 2502 2087 2502" 
+                    HPOS="594"
+                    VPOS="2458"
+                    WIDTH="1493"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="594 2502 594 2519 2087 2519 2087 2502 2087 2458 594 2458 594 2502"/></Shape>
+	    <String CONTENT=" St. Aubert sometimes amused himself with botanizing, while Valancourt and"
+                    HPOS="594"
+                    VPOS="2458"
+                    WIDTH="1493"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a548ac0"
+                    TAGREFS="LT750"
+                    BASELINE="464 2554 2087 2554" 
+                    HPOS="464"
+                    VPOS="2508"
+                    WIDTH="1623"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="464 2554 464 2571 2087 2571 2087 2554 2087 2510 464 2508 464 2554"/></Shape>
+	    <String CONTENT="Emily strolled on; he pointing out to her notice the objects that particularly charmed"
+                    HPOS="464"
+                    VPOS="2508"
+                    WIDTH="1623"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b7f9778"
+                    TAGREFS="LT750"
+                    BASELINE="464 2609 2087 2604" 
+                    HPOS="462"
+                    VPOS="2563"
+                    WIDTH="1625"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="464 2609 464 2623 2085 2618 2087 2604 2082 2563 462 2563 464 2609"/></Shape>
+	    <String CONTENT="him, and reciting beautiful passages from such of the Latin and Italian poets as he had"
+                    HPOS="462"
+                    VPOS="2563"
+                    WIDTH="1625"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d3d0023"
+                    TAGREFS="LT750"
+                    BASELINE="464 2662 2085 2662" 
+                    HPOS="464"
+                    VPOS="2612"
+                    WIDTH="1621"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="464 2662 464 2675 2085 2675 2085 2662 2085 2618 464 2612 464 2662"/></Shape>
+	    <String CONTENT=" heard her admire. In the pauses of conversation, when he thought himself not observed,"
+                    HPOS="464"
+                    VPOS="2612"
+                    WIDTH="1621"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44a6774c"
+                    TAGREFS="LT750"
+                    BASELINE="464 2714 2087 2714" 
+                    HPOS="464"
+                    VPOS="2664"
+                    WIDTH="1623"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="464 2714 464 2728 2087 2728 2087 2714 2087 2670 464 2664 464 2714"/></Shape>
+	    <String CONTENT="he frequently fixed his eves pensively on her countenance, which expressed with so"
+                    HPOS="464"
+                    VPOS="2664"
+                    WIDTH="1623"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d46ca1c0"
+                    TAGREFS="LT750"
+                    BASELINE="464 2766 2085 2766" 
+                    HPOS="464"
+                    VPOS="2722"
+                    WIDTH="1621"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="464 2766 464 2780 2085 2780 2085 2766 2085 2722 464 2722 464 2766"/></Shape>
+	    <String CONTENT=" much animation the taste and energy of her mind; and when he spoke again there was a"
+                    HPOS="464"
+                    VPOS="2722"
+                    WIDTH="1621"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a542c5ff"
+                    TAGREFS="LT750"
+                    BASELINE="464 2821 2085 2816" 
+                    HPOS="462"
+                    VPOS="2774"
+                    WIDTH="1623"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="464 2821 464 2840 2082 2829 2085 2816 2076 2774 462 2777 464 2821"/></Shape>
+	    <String CONTENT="peculiar tenderness in the tone of his voice, that defeated any attempt to conceal his"
+                    HPOS="462"
+                    VPOS="2774"
+                    WIDTH="1623"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53404bd5"
+                    TAGREFS="LT750"
+                    BASELINE="464 2873 2082 2873" 
+                    HPOS="464"
+                    VPOS="2829"
+                    WIDTH="1618"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="464 2873 464 2884 2079 2887 2082 2873 2082 2829 464 2829 464 2873"/></Shape>
+	    <String CONTENT=" sentiments. By degrees these silent pauses became more frequent till Emily, only,"
+                    HPOS="464"
+                    VPOS="2829"
+                    WIDTH="1618"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1af86f6"
+                    TAGREFS="LT750"
+                    BASELINE="464 2926 2087 2926" 
+                    HPOS="464"
+                    VPOS="2876"
+                    WIDTH="1623"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="464 2926 464 2945 2087 2945 2087 2926 2087 2882 464 2876 464 2926"/></Shape>
+	    <String CONTENT="betrayed an anxiety to interrupt them; and she, who had been hitherto reserved, would"
+                    HPOS="464"
+                    VPOS="2876"
+                    WIDTH="1623"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1234"
+                   VPOS="3003"
+                   WIDTH="83"
+                   HEIGHT="73"
+                   ID="eSc_textblock_20a47393"
+                   TAGREFS="BT1774">
+          <Shape><Polygon POINTS="1234 3003 1234 3076 1317 3076 1317 3003"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_474c98f8"
+                    TAGREFS="LT750"
+                    BASELINE="1243 3055 1303 3047" 
+                    HPOS="1235"
+                    VPOS="3003"
+                    WIDTH="68"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1292 3016 1265 3016 1257 3003 1235 3005 1243 3055 1243 3066 1303 3063 1303 3047 1292 3016 1292 3016"/></Shape>
+	    <String CONTENT="29"
+                    HPOS="1235"
+                    VPOS="3003"
+                    WIDTH="68"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
