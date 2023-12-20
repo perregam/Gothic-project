@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>THE-CASTLE-OF-OTRANTO-1.pdf_page_9.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1771" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1808" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1809" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/>
+    <OtherTag ID="LT722" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT723" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="286"
+                   VPOS="289"
+                   WIDTH="1977"
+                   HEIGHT="2524"
+                   ID="eSc_textblock_3511bb10"
+                   TAGREFS="BT1771">
+          <Shape><Polygon POINTS="2153 536 2252 594 2241 701 998 734 1251 748 1144 756 1155 792 2120 803 2252 880 2252 1064 2186 1089 2252 1361 2142 1430 2208 1496 2186 1680 1658 1694 2065 1716 2230 1749 2252 1793 2252 1856 2175 1889 2252 1958 2263 2043 2189 2054 2142 2134 2164 2241 2252 2277 2252 2340 2197 2365 2208 2461 2065 2527 1878 2530 2087 2541 2120 2670 2208 2706 2197 2813 286 2813 289 289 2142 319 2120 426 1339 437 2120 451"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e920bd1e"
+                    TAGREFS="LT723"
+                    BASELINE="291 352 2129 352" 
+                    HPOS="291"
+                    VPOS="305"
+                    WIDTH="1838"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="2107 319 2079 319 2052 319 2024 319 1997 319 1969 319 1942 319 1914 319 1887 316 1859 316 1832 316 1804 316 1777 316 1749 316 1722 316 1694 316 1666 313 1639 313 1611 313 1584 313 1556 313 1529 313 1501 313 1474 313 1446 310 1419 310 1389 310 1364 310 1336 310 1309 310 1281 310 1254 310 1226 310 1199 308 1171 308 1144 308 1116 308 1089 308 1061 308 1034 308 1006 308 979 305 951 305 924 305 896 305 869 305 841 305 814 305 786 305 291 305 291 352 291 365 2129 365 2129 352 2129 319 2107 319"/></Shape>
+	    <String CONTENT=" and, as if he sought a subject on which to vent the tempest within him, he rushed"
+                    HPOS="291"
+                    VPOS="305"
+                    WIDTH="1838"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f3cb0ba"
+                    TAGREFS="LT723"
+                    BASELINE="291 418 1133 412" 
+                    HPOS="288"
+                    VPOS="368"
+                    WIDTH="845"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="291 418 291 431 1130 426 1133 412 1125 368 288 371 291 418"/></Shape>
+	    <String CONTENT="again on the young peasant, crying–"
+                    HPOS="288"
+                    VPOS="368"
+                    WIDTH="845"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9620d8cc"
+                    TAGREFS="LT723"
+                    BASELINE="310 517 2165 532" 
+                    HPOS="305"
+                    VPOS="456"
+                    WIDTH="1859"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2148 525 2126 475 308 456 308 517 305 525 2159 536 2164 530 2162 478 2148 475 2148 525"/></Shape>
+	    <String CONTENT="&quot;Villain! Monster! Sorcerer! ’tis thou hast done this! ’tis thou hast slain my son!&quot;"
+                    HPOS="305"
+                    VPOS="456"
+                    WIDTH="1859"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93f37202"
+                    TAGREFS="LT723"
+                    BASELINE="294 618 2236 618" 
+                    HPOS="294"
+                    VPOS="561"
+                    WIDTH="1942"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2208 569 294 561 294 618 294 635 2236 635 2236 618 2230 585 2219 577"/></Shape>
+	    <String CONTENT="The mob, who wanted some object within the scope of their capacities, on whom they"
+                    HPOS="294"
+                    VPOS="561"
+                    WIDTH="1942"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f67d5f3d"
+                    TAGREFS="LT723"
+                    BASELINE="291 684 2236 684" 
+                    HPOS="291"
+                    VPOS="638"
+                    WIDTH="1945"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="291 684 291 701 2236 701 2236 684 2236 638 291 638 291 684"/></Shape>
+	    <String CONTENT=" might discharge their bewildered reasoning, caught the words from the mouth of their"
+                    HPOS="291"
+                    VPOS="638"
+                    WIDTH="1945"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47811666"
+                    TAGREFS="LT723"
+                    BASELINE="291 750 786 750" 
+                    HPOS="291"
+                    VPOS="695"
+                    WIDTH="495"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="291 750 291 764 786 764 786 750 786 704 291 695 291 750"/></Shape>
+	    <String CONTENT="lord, and re-echoed–"
+                    HPOS="291"
+                    VPOS="695"
+                    WIDTH="495"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c655e883"
+                    TAGREFS="LT723"
+                    BASELINE="302 844 2120 849" 
+                    HPOS="299"
+                    VPOS="789"
+                    WIDTH="1821"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2115 805 2087 803 2060 803 2032 803 2005 803 1977 803 1950 803 1922 803 1895 803 1876 800 1755 800 1730 800 1702 800 1675 800 1647 800 1636 797 302 789 302 844 299 858 2115 863 2120 849 2120 805 2115 805"/></Shape>
+	    <String CONTENT="&quot;Ay, ay; &#39;tis he, ’tis he: he has stolen the helmet from good Alfonso&#39;s tomb, and"
+                    HPOS="299"
+                    VPOS="789"
+                    WIDTH="1821"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_843ce90b"
+                    TAGREFS="LT723"
+                    BASELINE="291 915 2241 915" 
+                    HPOS="291"
+                    VPOS="869"
+                    WIDTH="1950"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2225 869 291 869 291 915 291 932 2241 932 2241 915 2241 877 2225 869"/></Shape>
+	    <String CONTENT="dashed out the brains of our young Prince with it,&quot; never reflecting how enormous the"
+                    HPOS="291"
+                    VPOS="869"
+                    WIDTH="1950"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6c8bef8"
+                    TAGREFS="LT723"
+                    BASELINE="288 981 2228 981" 
+                    HPOS="288"
+                    VPOS="929"
+                    WIDTH="1940"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="288 981 288 995 2228 995 2228 981 2225 929 288 932 288 981"/></Shape>
+	    <String CONTENT="disproportion was between the marble helmet that had been in the church, and that of"
+                    HPOS="288"
+                    VPOS="929"
+                    WIDTH="1940"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22f07ed3"
+                    TAGREFS="LT723"
+                    BASELINE="294 1047 2250 1042" 
+                    HPOS="291"
+                    VPOS="995"
+                    WIDTH="1959"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="294 1047 294 1058 2250 1053 2250 1042 2241 995 291 998 294 1047"/></Shape>
+	    <String CONTENT="steel before their eyes; nor how impossible it was for a youth seemingly not twenty, to"
+                    HPOS="291"
+                    VPOS="995"
+                    WIDTH="1959"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ed93aeb"
+                    TAGREFS="LT723"
+                    BASELINE="294 1111 1444 1111" 
+                    HPOS="294"
+                    VPOS="1064"
+                    WIDTH="1150"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="294 1111 294 1127 1444 1127 1444 1111 1444 1064 294 1064 294 1111"/></Shape>
+	    <String CONTENT="wield a piece of armour of so prodigious a weight."
+                    HPOS="294"
+                    VPOS="1064"
+                    WIDTH="1150"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad93dae5"
+                    TAGREFS="LT723"
+                    BASELINE="294 1215 2206 1210" 
+                    HPOS="291"
+                    VPOS="1157"
+                    WIDTH="1915"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2195 1157 291 1157 294 1215 294 1229 2203 1223 2206 1210 2203 1188 2195 1157"/></Shape>
+	    <String CONTENT="The folly of these ejaculations brought Manfred to himself: yet whether provoked at"
+                    HPOS="291"
+                    VPOS="1157"
+                    WIDTH="1915"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cddacd4c"
+                    TAGREFS="LT723"
+                    BASELINE="291 1273 2184 1278" 
+                    HPOS="288"
+                    VPOS="1223"
+                    WIDTH="1896"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="291 1273 288 1284 2178 1289 2184 1278 2181 1229 291 1223 291 1273"/></Shape>
+	    <String CONTENT="the peasant having observed the resemblance between the two helmets, and thereby"
+                    HPOS="288"
+                    VPOS="1223"
+                    WIDTH="1896"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_963e7135"
+                    TAGREFS="LT723"
+                    BASELINE="291 1344 2244 1336" 
+                    HPOS="288"
+                    VPOS="1289"
+                    WIDTH="1956"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2230 1289 288 1289 291 1344 291 1358 2241 1358 2244 1336 2241 1322 2230 1289"/></Shape>
+	    <String CONTENT="led to the farther discovery of the absence of that in the church, or wishing to bury any"
+                    HPOS="288"
+                    VPOS="1289"
+                    WIDTH="1956"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5c65bfb"
+                    TAGREFS="LT723"
+                    BASELINE="294 1408 2112 1408" 
+                    HPOS="294"
+                    VPOS="1361"
+                    WIDTH="1818"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="294 1408 294 1421 2112 1421 2112 1408 2112 1361 294 1361 294 1408"/></Shape>
+	    <String CONTENT="such rumour under so impertinent a supposition, he gravely pronounced that the"
+                    HPOS="294"
+                    VPOS="1361"
+                    WIDTH="1818"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e165c34"
+                    TAGREFS="LT723"
+                    BASELINE="291 1471 2010 1471" 
+                    HPOS="291"
+                    VPOS="1424"
+                    WIDTH="1719"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="291 1471 291 1490 2010 1485 2010 1471 2010 1424 291 1424 291 1471"/></Shape>
+	    <String CONTENT="young man was certainly a necromancer, and that till the Church could take"
+                    HPOS="291"
+                    VPOS="1424"
+                    WIDTH="1719"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0243d1b2"
+                    TAGREFS="LT723"
+                    BASELINE="291 1537 2197 1537" 
+                    HPOS="291"
+                    VPOS="1487"
+                    WIDTH="1906"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2195 1487 291 1487 291 1537 291 1551 2197 1551 2197 1537 2197 1490 2195 1487"/></Shape>
+	    <String CONTENT="cognisance of the affair, he would have the Magician, whom they had thus detected,"
+                    HPOS="291"
+                    VPOS="1487"
+                    WIDTH="1906"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0157bc31"
+                    TAGREFS="LT723"
+                    BASELINE="291 1600 2153 1600" 
+                    HPOS="291"
+                    VPOS="1545"
+                    WIDTH="1862"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="291 1551 291 1600 291 1617 2151 1617 2153 1600 2151 1553 302 1545 291 1551"/></Shape>
+	    <String CONTENT="kept prisoner under the helmet itself, which he ordered his attendants to raise, and"
+                    HPOS="291"
+                    VPOS="1545"
+                    WIDTH="1862"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7244fcf"
+                    TAGREFS="LT723"
+                    BASELINE="291 1669 2170 1663" 
+                    HPOS="288"
+                    VPOS="1617"
+                    WIDTH="1882"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="291 1669 291 1688 2167 1674 2170 1663 2162 1617 288 1619 291 1669"/></Shape>
+	    <String CONTENT="place the young man under it; declaring he should be kept there without food, with"
+                    HPOS="288"
+                    VPOS="1617"
+                    WIDTH="1882"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b9e5c7a"
+                    TAGREFS="LT723"
+                    BASELINE="294 1732 1334 1727" 
+                    HPOS="291"
+                    VPOS="1680"
+                    WIDTH="1043"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="294 1732 294 1746 1331 1740 1334 1727 1325 1680 291 1683 294 1732"/></Shape>
+	    <String CONTENT="which his own infernal art might furnish him."
+                    HPOS="291"
+                    VPOS="1680"
+                    WIDTH="1043"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_588b2bd0"
+                    TAGREFS="LT723"
+                    BASELINE="291 1834 2241 1828" 
+                    HPOS="288"
+                    VPOS="1779"
+                    WIDTH="1953"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="291 1834 291 1848 2239 1842 2241 1828 2236 1779 288 1779 291 1834"/></Shape>
+	    <String CONTENT="It was in vain for the youth to represent against this preposterous sentence: in vain did"
+                    HPOS="288"
+                    VPOS="1779"
+                    WIDTH="1953"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b25faddd"
+                    TAGREFS="LT723"
+                    BASELINE="294 1897 2043 1892" 
+                    HPOS="294"
+                    VPOS="1848"
+                    WIDTH="1749"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="294 1867 294 1897 294 1911 2041 1905 2043 1892 2038 1848 308 1848 294 1867"/></Shape>
+	    <String CONTENT="Manfred’s friends endeavour to divert him from this savage and ill-grounded"
+                    HPOS="294"
+                    VPOS="1848"
+                    WIDTH="1749"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71231f1c"
+                    TAGREFS="LT723"
+                    BASELINE="291 1960 2170 1960" 
+                    HPOS="291"
+                    VPOS="1914"
+                    WIDTH="1879"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="291 1960 291 1977 2167 1977 2170 1960 2167 1914 291 1914 291 1960"/></Shape>
+	    <String CONTENT=" resolution. The generality were charmed with their lord’s decision, which, to their"
+                    HPOS="291"
+                    VPOS="1914"
+                    WIDTH="1879"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eba1e4a3"
+                    TAGREFS="LT723"
+                    BASELINE="291 2029 2258 2024" 
+                    HPOS="288"
+                    VPOS="1974"
+                    WIDTH="1970"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2247 1974 288 1980 291 2029 291 2040 2255 2035 2258 2024 2250 1985 2247 1974"/></Shape>
+	    <String CONTENT="apprehensions, carried great appearance of justice, as the Magician was to be punished"
+                    HPOS="288"
+                    VPOS="1974"
+                    WIDTH="1970"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e99a31f7"
+                    TAGREFS="LT723"
+                    BASELINE="291 2090 2148 2090" 
+                    HPOS="291"
+                    VPOS="2037"
+                    WIDTH="1857"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="291 2090 291 2106 2148 2106 2148 2090 2148 2043 291 2037 291 2090"/></Shape>
+	    <String CONTENT="by the very instrument with which he had offended: nor were they struck with the"
+                    HPOS="291"
+                    VPOS="2037"
+                    WIDTH="1857"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f1a6592"
+                    TAGREFS="LT723"
+                    BASELINE="291 2158 2082 2150" 
+                    HPOS="288"
+                    VPOS="2103"
+                    WIDTH="1794"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="291 2158 291 2172 2079 2164 2082 2150 2074 2103 288 2103 291 2158"/></Shape>
+	    <String CONTENT="least compunction at the probability of the youth being starved, for they firmly"
+                    HPOS="288"
+                    VPOS="2103"
+                    WIDTH="1794"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1489877c"
+                    TAGREFS="LT723"
+                    BASELINE="291 2222 2137 2216" 
+                    HPOS="288"
+                    VPOS="2158"
+                    WIDTH="1849"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="288 2191 291 2222 291 2235 2134 2230 2137 2216 2131 2169 313 2158 288 2191"/></Shape>
+	    <String CONTENT="believed that, by his diabolic skill, he could easily supply himself with nutriment."
+                    HPOS="288"
+                    VPOS="2158"
+                    WIDTH="1849"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5f165cc"
+                    TAGREFS="LT723"
+                    BASELINE="291 2323 2247 2318" 
+                    HPOS="288"
+                    VPOS="2271"
+                    WIDTH="1959"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2230 2271 288 2271 291 2323 291 2334 2247 2329 2247 2318 2241 2277 2230 2271"/></Shape>
+	    <String CONTENT="Manfred thus saw his commands even cheerfully obeved; and appointing a guard with"
+                    HPOS="288"
+                    VPOS="2271"
+                    WIDTH="1959"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32f528ca"
+                    TAGREFS="LT723"
+                    BASELINE="291 2387 2137 2381" 
+                    HPOS="288"
+                    VPOS="2337"
+                    WIDTH="1849"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="291 2387 291 2400 2134 2395 2137 2381 2129 2337 288 2340 291 2387"/></Shape>
+	    <String CONTENT="strict orders to prevent any food being conveyed to the prisoner, he dismissed his"
+                    HPOS="288"
+                    VPOS="2337"
+                    WIDTH="1849"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a931255"
+                    TAGREFS="LT723"
+                    BASELINE="291 2450 2200 2450" 
+                    HPOS="291"
+                    VPOS="2406"
+                    WIDTH="1909"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2197 2406 291 2406 291 2450 291 2469 2200 2469 2200 2450 2200 2433 2197 2406"/></Shape>
+	    <String CONTENT="friends and attendants, and retired to his own chamber, after locking the gates of the"
+                    HPOS="291"
+                    VPOS="2406"
+                    WIDTH="1909"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef459bcb"
+                    TAGREFS="LT723"
+                    BASELINE="288 2516 1694 2510" 
+                    HPOS="288"
+                    VPOS="2466"
+                    WIDTH="1406"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="288 2494 288 2516 288 2532 1691 2527 1694 2510 1686 2466 302 2466 288 2494"/></Shape>
+	    <String CONTENT="castle, in which he suffered none but his domestics to remain."
+                    HPOS="288"
+                    VPOS="2466"
+                    WIDTH="1406"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66e46c1b"
+                    TAGREFS="LT723"
+                    BASELINE="291 2620 2109 2615" 
+                    HPOS="288"
+                    VPOS="2565"
+                    WIDTH="1821"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2104 2612 2085 2565 288 2565 291 2620 291 2634 2107 2629 2109 2615 2104 2596 2104 2612"/></Shape>
+	    <String CONTENT="In the meantime, the care and zeal of the young Ladies had brought the Princess"
+                    HPOS="288"
+                    VPOS="2565"
+                    WIDTH="1821"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c138c57f"
+                    TAGREFS="LT723"
+                    BASELINE="294 2686 2027 2681" 
+                    HPOS="291"
+                    VPOS="2629"
+                    WIDTH="1736"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="294 2686 294 2697 2024 2692 2027 2681 2021 2634 291 2629 294 2686"/></Shape>
+	    <String CONTENT="Hippolita to herself, who amidst the transports of her own sorrow frequently"
+                    HPOS="291"
+                    VPOS="2629"
+                    WIDTH="1736"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7cfc695"
+                    TAGREFS="LT723"
+                    BASELINE="291 2750 2203 2744" 
+                    HPOS="288"
+                    VPOS="2697"
+                    WIDTH="1915"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2186 2700 2178 2697 288 2700 291 2750 291 2766 2200 2766 2203 2744 2195 2700 2186 2700"/></Shape>
+	    <String CONTENT="demanded news of her lord, would have dismissed her attendants to watch over him,"
+                    HPOS="288"
+                    VPOS="2697"
+                    WIDTH="1915"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08e3f1fd"
+                    TAGREFS="LT723"
+                    BASELINE="291 2816 2178 2810" 
+                    HPOS="288"
+                    VPOS="2750"
+                    WIDTH="1890"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="291 2816 291 2835 2175 2829 2178 2810 2173 2763 1292 2750 1290 2750 1224 2763 363 2752 360 2752 288 2766 291 2816"/></Shape>
+	    <String CONTENT="and at last enjoined Matilda to leave her, and visit and comfort her father. Matilda,"
+                    HPOS="288"
+                    VPOS="2750"
+                    WIDTH="1890"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="152"
+                   VPOS="2882"
+                   WIDTH="973"
+                   HEIGHT="320"
+                   ID="eSc_textblock_6f7e3ec8"
+                   TAGREFS="BT1809">
+          <Shape><Polygon POINTS="152 2882 152 3202 1125 3202 1125 2882"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_35f56736"
+                    TAGREFS="LT723"
+                    BASELINE="160 2955 1133 2959" 
+                    HPOS="156"
+                    VPOS="2901"
+                    WIDTH="974"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="159 2953 156 2961 1125 2964 1130 2959 1127 2912 159 2901 159 2953"/></Shape>
+	    <String CONTENT="Source URL: http://www.gutenberg.org/files/696/696-h/696-h.htm"
+                    HPOS="156"
+                    VPOS="2901"
+                    WIDTH="974"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24674148"
+                    TAGREFS="LT723"
+                    BASELINE="160 2998 960 2994" 
+                    HPOS="156"
+                    VPOS="2953"
+                    WIDTH="801"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="927 2961 899 2961 872 2961 844 2961 816 2961 789 2959 761 2959 734 2959 706 2959 679 2959 651 2959 624 2959 596 2959 569 2959 541 2959 514 2959 486 2959 459 2956 431 2956 404 2956 376 2956 349 2956 321 2956 294 2956 266 2956 239 2956 211 2956 184 2956 156 2953 159 2997 159 3003 957 3000 957 2992 951 2961 927 2961"/></Shape>
+	    <String CONTENT="Saylor URL: http://www.saylor.org/courses/engl101/"
+                    HPOS="156"
+                    VPOS="2953"
+                    WIDTH="801"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f90886f"
+                    TAGREFS="LT723"
+                    BASELINE="141 3148 787 3152" 
+                    HPOS="137"
+                    VPOS="3093"
+                    WIDTH="649"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="140 3146 137 3154 781 3157 786 3151 786 3102 140 3093 140 3146"/></Shape>
+	    <String CONTENT="This work is in the public domain."
+                    HPOS="137"
+                    VPOS="3093"
+                    WIDTH="649"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2137"
+                   VPOS="3040"
+                   WIDTH="296"
+                   HEIGHT="131"
+                   ID="eSc_textblock_ff6e42d3"
+                   TAGREFS="BT1809">
+          <Shape><Polygon POINTS="2137 3040 2137 3163 2433 3171 2429 3040"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0a5d7952"
+                    TAGREFS="LT723"
+                    BASELINE="2202 3090 2418 3094" 
+                    HPOS="2197"
+                    VPOS="3047"
+                    WIDTH="220"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="2200 3088 2197 3099 2412 3104 2417 3093 2415 3052 2200 3047 2200 3088"/></Shape>
+	    <String CONTENT="Saylor.org"
+                    HPOS="2197"
+                    VPOS="3047"
+                    WIDTH="220"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92bc665a"
+                    TAGREFS="LT723"
+                    BASELINE="2156 3144 2410 3144" 
+                    HPOS="2153"
+                    VPOS="3096"
+                    WIDTH="256"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="2153 3143 2153 3154 2409 3154 2409 3143 2409 3096 2153 3096 2153 3143"/></Shape>
+	    <String CONTENT="Page 9 of 87"
+                    HPOS="2153"
+                    VPOS="3096"
+                    WIDTH="256"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="102"
+                   VPOS="1813"
+                   WIDTH="8"
+                   HEIGHT="4"
+                   ID="eSc_textblock_41d2da9a"
+                   >
+          <Shape><Polygon POINTS="102 1813 102 1817 110 1817 110 1813"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

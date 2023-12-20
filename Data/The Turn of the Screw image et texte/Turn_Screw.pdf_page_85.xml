@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Turn_Screw.pdf_page_85.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1764" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT1805" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1806" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT718" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT719" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1650"
+          HEIGHT="2550"
+          PHYSICAL_IMG_NR="84"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1650"
+                  HEIGHT="2550">
+        
+        <TextBlock HPOS="752"
+                   VPOS="391"
+                   WIDTH="149"
+                   HEIGHT="86"
+                   ID="eSc_textblock_3c529fda"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="752 391 752 477 901 477 901 391"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_62b3e928"
+                    TAGREFS="LT719"
+                    BASELINE="761 469 903 469" 
+                    HPOS="759"
+                    VPOS="422"
+                    WIDTH="142"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="759 467 759 478 901 478 901 467 890 422 759 422 759 467"/></Shape>
+	    <String CONTENT="XIII"
+                    HPOS="759"
+                    VPOS="422"
+                    WIDTH="142"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="185"
+                   VPOS="562"
+                   WIDTH="1275"
+                   HEIGHT="1649"
+                   ID="eSc_textblock_6fd80f6d"
+                   TAGREFS="BT1764">
+          <Shape><Polygon POINTS="206 562 185 2211 1448 2211 1460 571"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6f88f602"
+                    TAGREFS="LT718"
+                    BASELINE="201 643 1445 639" 
+                    HPOS="199"
+                    VPOS="599"
+                    WIDTH="1246"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1411 612 1390 612 1369 612 1348 612 1326 612 1305 612 1284 609 1263 609 1241 609 1220 609 1199 609 1177 609 1156 609 1135 607 1114 607 1092 607 1071 607 1050 607 1029 607 1007 607 986 607 965 605 944 605 922 605 901 605 880 605 859 605 837 605 816 603 795 603 773 603 752 603 731 603 710 603 688 603 667 601 646 601 625 601 603 601 582 601 561 601 540 601 518 601 506 599 199 599 201 643 201 652 1443 650 1445 639 1441 612 1433 612"/></Shape>
+	    <String CONTENT="IT was all very well to join them, but speaking to them"
+                    HPOS="199"
+                    VPOS="599"
+                    WIDTH="1246"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21d54f90"
+                    TAGREFS="LT718"
+                    BASELINE="201 703 1441 699" 
+                    HPOS="199"
+                    VPOS="652"
+                    WIDTH="1242"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="201 703 201 718 1439 707 1441 699 1437 663 888 652 886 652 801 663 327 654 325 654 199 665 201 703"/></Shape>
+	    <String CONTENT="proved quite as much as ever an effort beyond my strength–"
+                    HPOS="199"
+                    VPOS="652"
+                    WIDTH="1242"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20f01bfe"
+                    TAGREFS="LT718"
+                    BASELINE="201 758 1445 754" 
+                    HPOS="199"
+                    VPOS="705"
+                    WIDTH="1246"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="201 758 201 769 1443 765 1445 754 1441 718 1348 705 1345 705 1292 718 1099 718 1067 705 1065 705 1063 705 1061 705 1058 705 1058 707 1048 718 958 718 820 705 818 705 816 705 761 718 236 707 233 707 231 707 199 720 201 758"/></Shape>
+	    <String CONTENT="offered, in close quarters, difficulties as insurmountable as"
+                    HPOS="199"
+                    VPOS="705"
+                    WIDTH="1246"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c3b2d7d"
+                    TAGREFS="LT718"
+                    BASELINE="201 818 1445 811" 
+                    HPOS="199"
+                    VPOS="762"
+                    WIDTH="1246"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="201 826 1443 820 1445 811 1441 777 1324 777 1324 775 1311 765 1311 762 1309 762 1307 762 1305 762 1303 762 1263 775 1260 777 1222 777 1222 775 1209 765 1209 762 1207 762 1205 762 1203 762 1101 775 1095 775 1073 762 1071 762 1069 762 1067 762 1065 762 1018 775 1005 779 903 779 899 775 890 767 890 765 888 765 886 765 884 765 882 765 880 765 865 775 863 775 852 775 790 765 788 765 720 773 691 777 661 773 614 767 512 767 510 767 508 767 506 767 497 773 486 779 465 773 446 767 444 767 372 767 369 767 367 767 365 767 365 769 361 773 352 779 199 773 201 818"/></Shape>
+	    <String CONTENT="before. This situation continued a month, and with new"
+                    HPOS="199"
+                    VPOS="762"
+                    WIDTH="1246"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c3060a2"
+                    TAGREFS="LT718"
+                    BASELINE="204 875 1445 869" 
+                    HPOS="201"
+                    VPOS="824"
+                    WIDTH="1244"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="204 875 204 884 1443 877 1445 869 1441 833 631 824 629 824 201 837 204 875"/></Shape>
+	    <String CONTENT="aggravations and particular notes, the note above all, sharper"
+                    HPOS="201"
+                    VPOS="824"
+                    WIDTH="1244"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9243a1fa"
+                    TAGREFS="LT718"
+                    BASELINE="201 932 1443 928" 
+                    HPOS="199"
+                    VPOS="881"
+                    WIDTH="1244"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="201 932 201 943 1441 939 1443 928 1437 881 663 892 576 890 261 884 259 884 199 894 201 932"/></Shape>
+	    <String CONTENT="and sharper, of the small ironic consciousness on the part of"
+                    HPOS="199"
+                    VPOS="881"
+                    WIDTH="1244"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71e80f70"
+                    TAGREFS="LT718"
+                    BASELINE="204 990 1445 990" 
+                    HPOS="204"
+                    VPOS="952"
+                    WIDTH="1241"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="204 990 204 998 1445 998 1445 990 1445 952 204 952 204 990"/></Shape>
+	    <String CONTENT="my pupils. It was not, I am as sure today as I was sure then,"
+                    HPOS="204"
+                    VPOS="952"
+                    WIDTH="1241"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af508c11"
+                    TAGREFS="LT718"
+                    BASELINE="201 1047 1445 1043" 
+                    HPOS="199"
+                    VPOS="1005"
+                    WIDTH="1246"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1437 1005 199 1007 201 1047 201 1056 1443 1051 1445 1043 1441 1017 1437 1005"/></Shape>
+	    <String CONTENT="my mere infernal imagination: it was absolutely traceable"
+                    HPOS="199"
+                    VPOS="1005"
+                    WIDTH="1246"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ba99f63"
+                    TAGREFS="LT718"
+                    BASELINE="201 1105 1445 1105" 
+                    HPOS="201"
+                    VPOS="1064"
+                    WIDTH="1244"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="201 1105 201 1115 1445 1115 1445 1105 1445 1064 201 1064 201 1105"/></Shape>
+	    <String CONTENT="that they were aware of my predicament and that this strange"
+                    HPOS="201"
+                    VPOS="1064"
+                    WIDTH="1244"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50f6edd8"
+                    TAGREFS="LT718"
+                    BASELINE="201 1160 1445 1160" 
+                    HPOS="201"
+                    VPOS="1111"
+                    WIDTH="1244"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="201 1173 1445 1173 1445 1160 1445 1119 1428 1111 1426 1111 1424 1111 1422 1111 1314 1122 1275 1111 1273 1111 1271 1111 958 1122 895 1111 893 1111 890 1111 846 1122 788 1111 786 1111 784 1111 782 1111 782 1113 771 1124 550 1124 516 1111 514 1111 512 1111 510 1111 482 1122 452 1111 450 1111 448 1111 446 1111 444 1111 444 1113 433 1124 361 1124 248 1111 246 1111 244 1111 201 1122 201 1160"/></Shape>
+	    <String CONTENT="relation made, in a manner, for a long time, the air in which"
+                    HPOS="201"
+                    VPOS="1111"
+                    WIDTH="1244"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed2a611e"
+                    TAGREFS="LT718"
+                    BASELINE="204 1217 1448 1213" 
+                    HPOS="201"
+                    VPOS="1166"
+                    WIDTH="1247"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="204 1217 204 1228 1445 1224 1448 1213 1443 1177 831 1166 829 1166 827 1166 825 1166 812 1177 401 1168 399 1168 201 1179 204 1217"/></Shape>
+	    <String CONTENT="we moved. I dont mean that they had their tongues in their"
+                    HPOS="201"
+                    VPOS="1166"
+                    WIDTH="1247"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7209c65d"
+                    TAGREFS="LT718"
+                    BASELINE="201 1275 1448 1275" 
+                    HPOS="201"
+                    VPOS="1238"
+                    WIDTH="1247"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="201 1275 201 1285 1448 1285 1448 1275 1448 1238 201 1238 201 1275"/></Shape>
+	    <String CONTENT="cheeks or did anything vulgar, for that was not one of their"
+                    HPOS="201"
+                    VPOS="1238"
+                    WIDTH="1247"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df94ad50"
+                    TAGREFS="LT718"
+                    BASELINE="201 1334 1445 1330" 
+                    HPOS="199"
+                    VPOS="1283"
+                    WIDTH="1246"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="201 1334 201 1345 1443 1340 1445 1330 1441 1292 219 1283 216 1283 214 1283 212 1283 199 1289 201 1334"/></Shape>
+	    <String CONTENT="dangers: I do mean, on the other hand, that the element of the"
+                    HPOS="199"
+                    VPOS="1283"
+                    WIDTH="1246"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea38f668"
+                    TAGREFS="LT718"
+                    BASELINE="204 1391 1445 1391" 
+                    HPOS="204"
+                    VPOS="1353"
+                    WIDTH="1241"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="204 1391 204 1402 1445 1402 1445 1391 1445 1353 204 1353 204 1391"/></Shape>
+	    <String CONTENT="unnamed and untouched became, between us, greater than"
+                    HPOS="204"
+                    VPOS="1353"
+                    WIDTH="1241"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_410cef68"
+                    TAGREFS="LT718"
+                    BASELINE="204 1445 1445 1449" 
+                    HPOS="201"
+                    VPOS="1406"
+                    WIDTH="1244"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="204 1445 201 1453 1441 1455 1445 1449 1443 1411 204 1406 204 1445"/></Shape>
+	    <String CONTENT="any other, and that so much avoidance could not have been"
+                    HPOS="201"
+                    VPOS="1406"
+                    WIDTH="1244"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd3c1f3c"
+                    TAGREFS="LT718"
+                    BASELINE="201 1506 1448 1506" 
+                    HPOS="201"
+                    VPOS="1457"
+                    WIDTH="1247"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="201 1506 201 1515 1448 1515 1448 1506 1448 1466 1430 1457 1428 1457 1426 1457 1424 1457 1422 1457 1388 1468 1320 1457 1318 1457 1316 1457 1275 1468 1239 1457 1237 1457 1235 1457 859 1468 805 1457 803 1457 748 1468 737 1459 737 1457 735 1457 733 1457 597 1457 595 1457 535 1468 444 1457 442 1457 201 1468 201 1506"/></Shape>
+	    <String CONTENT="so successfully effected without a great deal of tacit"
+                    HPOS="201"
+                    VPOS="1457"
+                    WIDTH="1247"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0e0c872"
+                    TAGREFS="LT718"
+                    BASELINE="201 1564 1443 1559" 
+                    HPOS="199"
+                    VPOS="1523"
+                    WIDTH="1244"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="201 1564 201 1572 1441 1568 1443 1559 1437 1523 199 1525 201 1564"/></Shape>
+	    <String CONTENT="arrangement. It was as if, at moments, we were perpetually"
+                    HPOS="199"
+                    VPOS="1523"
+                    WIDTH="1244"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92eb2295"
+                    TAGREFS="LT718"
+                    BASELINE="201 1621 1445 1621" 
+                    HPOS="201"
+                    VPOS="1572"
+                    WIDTH="1244"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="201 1621 201 1632 1445 1632 1445 1621 1445 1583 295 1572 293 1572 201 1581 201 1621"/></Shape>
+	    <String CONTENT="coming into sight of subjects before which we must stop"
+                    HPOS="201"
+                    VPOS="1572"
+                    WIDTH="1244"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e135f55"
+                    TAGREFS="LT718"
+                    BASELINE="204 1680 1445 1676" 
+                    HPOS="201"
+                    VPOS="1629"
+                    WIDTH="1244"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="204 1680 204 1689 1443 1685 1445 1676 1441 1638 223 1629 221 1629 219 1629 216 1629 201 1636 204 1680"/></Shape>
+	    <String CONTENT="short, turning suddenly out of alleys that we perceived to be"
+                    HPOS="201"
+                    VPOS="1629"
+                    WIDTH="1244"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07f532fb"
+                    TAGREFS="LT718"
+                    BASELINE="201 1736 1448 1736" 
+                    HPOS="201"
+                    VPOS="1687"
+                    WIDTH="1247"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="201 1736 201 1746 1448 1746 1448 1736 1448 1695 1430 1687 1428 1687 1426 1687 1424 1687 1422 1687 1390 1700 1294 1700 1275 1700 1275 1697 1260 1687 1258 1687 1256 1687 1254 1687 1252 1687 1220 1697 1197 1687 1194 1687 1192 1687 1190 1687 1167 1697 1165 1697 1158 1697 1073 1687 1071 1687 999 1695 984 1697 971 1695 918 1687 916 1687 914 1687 890 1695 884 1697 859 1695 786 1687 784 1687 782 1687 765 1695 759 1697 750 1695 733 1687 731 1687 661 1687 659 1687 657 1687 654 1687 654 1689 648 1693 644 1697 623 1693 586 1687 584 1687 542 1693 506 1697 472 1691 438 1687 435 1687 395 1691 344 1697 201 1691 201 1736"/></Shape>
+	    <String CONTENT="blind, closing with a little bang that made us look at each"
+                    HPOS="201"
+                    VPOS="1687"
+                    WIDTH="1247"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df5f65ef"
+                    TAGREFS="LT718"
+                    BASELINE="201 1793 1448 1793" 
+                    HPOS="201"
+                    VPOS="1755"
+                    WIDTH="1247"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="201 1793 201 1804 1448 1804 1448 1793 1448 1755 201 1755 201 1793"/></Shape>
+	    <String CONTENT="other–for, like all bangs, it was something louder than we"
+                    HPOS="201"
+                    VPOS="1755"
+                    WIDTH="1247"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ba94b53"
+                    TAGREFS="LT718"
+                    BASELINE="201 1853 1448 1853" 
+                    HPOS="201"
+                    VPOS="1808"
+                    WIDTH="1247"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="201 1853 201 1861 1448 1861 1448 1853 1448 1810 201 1808 201 1853"/></Shape>
+	    <String CONTENT="had intended–the doors we had indiscreetly opened. All"
+                    HPOS="201"
+                    VPOS="1808"
+                    WIDTH="1247"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d36d50d6"
+                    TAGREFS="LT718"
+                    BASELINE="201 1908 1445 1908" 
+                    HPOS="201"
+                    VPOS="1859"
+                    WIDTH="1244"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="201 1908 201 1918 1445 1918 1445 1908 1445 1870 284 1859 282 1859 201 1867 201 1908"/></Shape>
+	    <String CONTENT="roads lead to Rome, and there were times when it might have"
+                    HPOS="201"
+                    VPOS="1859"
+                    WIDTH="1244"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4eee8469"
+                    TAGREFS="LT718"
+                    BASELINE="204 1967 1448 1963" 
+                    HPOS="201"
+                    VPOS="1916"
+                    WIDTH="1247"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="204 1967 204 1976 1445 1972 1448 1963 1443 1916 822 1916 820 1916 818 1916 801 1923 793 1927 648 1925 229 1918 227 1918 225 1918 201 1927 204 1967"/></Shape>
+	    <String CONTENT="struck us that almost every branch of study or subject of"
+                    HPOS="201"
+                    VPOS="1916"
+                    WIDTH="1247"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ca82126"
+                    TAGREFS="LT718"
+                    BASELINE="201 2023 1450 2023" 
+                    HPOS="201"
+                    VPOS="1974"
+                    WIDTH="1249"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="201 2023 201 2033 1450 2033 1450 2023 1450 1984 663 1974 661 1974 659 1974 640 1984 618 1974 616 1974 614 1974 612 1974 610 1974 610 1976 599 1984 597 1984 510 1974 508 1974 506 1974 463 1984 461 1984 401 1974 399 1974 201 1984 201 2023"/></Shape>
+	    <String CONTENT=" conversation skirted forbidden ground. Forbidden ground"
+                    HPOS="201"
+                    VPOS="1974"
+                    WIDTH="1249"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fee5bf03"
+                    TAGREFS="LT718"
+                    BASELINE="206 2082 1448 2078" 
+                    HPOS="204"
+                    VPOS="2031"
+                    WIDTH="1244"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="206 2082 206 2091 1445 2086 1448 2078 1443 2033 308 2031 306 2031 204 2042 206 2082"/></Shape>
+	    <String CONTENT="was the question of the return of the dead in general and of"
+                    HPOS="204"
+                    VPOS="2031"
+                    WIDTH="1244"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38a01a30"
+                    TAGREFS="LT718"
+                    BASELINE="206 2139 1448 2139" 
+                    HPOS="206"
+                    VPOS="2091"
+                    WIDTH="1242"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="206 2139 206 2148 1448 2148 1448 2139 1448 2101 1405 2091 1403 2091 1401 2091 1399 2091 1371 2101 1360 2093 1360 2091 1358 2091 1356 2091 1354 2091 1352 2091 1305 2103 1282 2103 1073 2103 1073 2101 1050 2091 1048 2091 1046 2091 1044 2091 1018 2101 1016 2101 948 2091 946 2091 850 2101 844 2101 842 2101 814 2091 812 2091 810 2091 708 2101 699 2101 695 2101 661 2091 659 2091 657 2091 206 2099 206 2139"/></Shape>
+	    <String CONTENT="whatever, in especial, might survive, in memory, of the"
+                    HPOS="206"
+                    VPOS="2091"
+                    WIDTH="1242"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4a555b8"
+                    TAGREFS="LT718"
+                    BASELINE="204 2197 1448 2197" 
+                    HPOS="204"
+                    VPOS="2144"
+                    WIDTH="1244"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="501 2195 480 2195 459 2195 438 2195 416 2195 395 2195 374 2195 352 2195 331 2195 310 2195 289 2195 267 2195 246 2195 225 2195 223 2169 208 2159 204 2197 204 2210 1448 2210 1448 2197 1448 2154 1405 2144 1403 2144 1401 2144 1335 2156 1328 2156 1326 2156 1301 2144 1299 2144 1297 2144 1294 2144 1292 2144 1292 2146 1280 2156 1280 2159 1237 2159 1235 2156 1218 2144 1216 2144 1214 2144 1211 2144 1209 2144 1180 2156 1165 2163 1139 2156 1088 2144 1086 2144 1084 2144 1082 2144 1080 2144 1080 2146 1067 2156 1061 2163 1054 2156 1050 2152 1048 2152 1046 2152 1044 2152 893 2156 886 2156 873 2146 873 2144 871 2144 869 2144 831 2144 829 2144 827 2144 825 2144 825 2146 812 2156 807 2161 795 2156 744 2144 742 2144 739 2144 669 2156 652 2144 650 2144 648 2144 646 2144 644 2144 642 2144 642 2146 629 2159 627 2159 620 2159 537 2144 535 2144 533 2144 531 2144 518 2150 501 2195"/></Shape>
+	    <String CONTENT="friends little children had lost. There were days when I could l could"
+                    HPOS="204"
+                    VPOS="2144"
+                    WIDTH="1244"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

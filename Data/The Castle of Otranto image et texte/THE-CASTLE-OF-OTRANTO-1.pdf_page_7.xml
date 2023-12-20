@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>THE-CASTLE-OF-OTRANTO-1.pdf_page_7.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1771" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1808" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1809" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/>
+    <OtherTag ID="LT722" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT723" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="279"
+                   VPOS="305"
+                   WIDTH="1973"
+                   HEIGHT="2513"
+                   ID="eSc_textblock_67cfe4f4"
+                   TAGREFS="BT1771">
+          <Shape><Polygon POINTS="2208 668 1229 682 1856 704 1892 836 2142 869 2131 932 712 957 1152 1001 1100 1023 2219 1045 2208 1229 2131 1306 1009 1309 2109 1331 2087 1361 1438 1372 2109 1386 2142 1419 2175 1570 2252 1606 2197 1716 2241 1870 2197 2274 855 2299 2164 2321 2241 2585 2164 2695 2193 2818 1552 2816 279 2812 324 305 2208 308 2208 426 2142 462 2252 539"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_42a79842"
+                    TAGREFS="LT723"
+                    BASELINE="288 349 2203 343" 
+                    HPOS="286"
+                    VPOS="299"
+                    WIDTH="1917"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2129 308 2101 308 2074 308 2046 308 2019 308 1991 308 1964 308 1936 308 1909 308 1881 308 1854 308 1826 308 1799 308 1771 308 1744 308 1716 305 1688 305 1661 305 1633 305 1606 305 1578 305 1551 305 1523 305 1496 305 1468 305 1441 305 1413 305 1386 305 1358 305 1331 305 1303 305 1276 305 1248 302 1221 302 1193 302 1166 302 1138 302 1111 302 1083 302 1056 302 1028 302 1001 302 973 302 946 302 918 302 891 302 863 302 836 302 808 302 781 302 753 299 726 299 698 299 671 299 643 299 616 299 588 299 561 299 533 299 506 299 478 299 451 299 423 299 396 299 368 299 341 299 330 299 286 305 288 349 288 365 2200 360 2203 343 2184 308 2156 308"/></Shape>
+	    <String CONTENT="confusion. Matilda remained endeavouring to assist her mother, and Isabella stayed"
+                    HPOS="286"
+                    VPOS="299"
+                    WIDTH="1917"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51e526d0"
+                    TAGREFS="LT723"
+                    BASELINE="291 418 2184 412" 
+                    HPOS="288"
+                    VPOS="365"
+                    WIDTH="1896"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="291 418 291 431 2181 426 2184 412 2175 365 288 368 291 418"/></Shape>
+	    <String CONTENT="for the same purpose, and to avoid showing any impatience for the bridegroom, for"
+                    HPOS="288"
+                    VPOS="365"
+                    WIDTH="1896"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68ea497b"
+                    TAGREFS="LT723"
+                    BASELINE="294 481 1424 481" 
+                    HPOS="294"
+                    VPOS="434"
+                    WIDTH="1130"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="294 497 1424 497 1424 481 1424 434 294 434 294 481"/></Shape>
+	    <String CONTENT="whom, in truth, she had conceived little affection."
+                    HPOS="294"
+                    VPOS="434"
+                    WIDTH="1130"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc41b8d0"
+                    TAGREFS="LT723"
+                    BASELINE="294 585 2247 580" 
+                    HPOS="291"
+                    VPOS="528"
+                    WIDTH="1956"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2225 528 291 528 294 585 294 599 2247 591 2247 580 2241 552 2225 528"/></Shape>
+	    <String CONTENT="The first thing that struck Manfred’s eyes was a group of his servants endeavouring to"
+                    HPOS="291"
+                    VPOS="528"
+                    WIDTH="1956"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a3a300d"
+                    TAGREFS="LT723"
+                    BASELINE="291 649 2214 643" 
+                    HPOS="288"
+                    VPOS="596"
+                    WIDTH="1926"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2192 596 288 599 291 649 291 665 2211 660 2214 643 2208 629 2192 596"/></Shape>
+	    <String CONTENT="raise something that appeared to him a mountain of sable plumes. He gazed without"
+                    HPOS="288"
+                    VPOS="596"
+                    WIDTH="1926"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1295b22"
+                    TAGREFS="LT723"
+                    BASELINE="291 712 734 712" 
+                    HPOS="291"
+                    VPOS="657"
+                    WIDTH="443"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="291 712 291 728 734 728 734 712 734 662 291 657 291 712"/></Shape>
+	    <String CONTENT="believing his sight."
+                    HPOS="291"
+                    VPOS="657"
+                    WIDTH="443"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01b934b1"
+                    TAGREFS="LT723"
+                    BASELINE="305 811 1851 805" 
+                    HPOS="302"
+                    VPOS="750"
+                    WIDTH="1549"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="305 811 305 827 1848 822 1851 805 1843 750 302 750 305 811"/></Shape>
+	    <String CONTENT="&quot;What are ye doing?&quot; cried Manfred, wrathfully; “where is my son?&quot;"
+                    HPOS="302"
+                    VPOS="750"
+                    WIDTH="1549"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d7c034c"
+                    TAGREFS="LT723"
+                    BASELINE="288 918 2131 913" 
+                    HPOS="286"
+                    VPOS="852"
+                    WIDTH="1845"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2101 866 2098 863 1221 852 1218 852 1215 852 1213 852 1213 855 1199 866 313 855 310 855 308 855 305 855 286 863 288 918 288 932 2129 926 2131 913 2123 893 2101 866"/></Shape>
+	    <String CONTENT="A volley of voices replied, &quot;Oh! my Lord! the Prince! the Prince! the helmet! the"
+                    HPOS="286"
+                    VPOS="852"
+                    WIDTH="1845"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_208ce4ee"
+                    TAGREFS="LT723"
+                    BASELINE="288 981 512 981" 
+                    HPOS="286"
+                    VPOS="932"
+                    WIDTH="225"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="286 979 286 992 511 992 511 979 511 932 286 932 286 979"/></Shape>
+	    <String CONTENT="helmet!&quot;"
+                    HPOS="286"
+                    VPOS="932"
+                    WIDTH="225"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53bbfa21"
+                    TAGREFS="LT723"
+                    BASELINE="291 1083 2214 1078" 
+                    HPOS="288"
+                    VPOS="1031"
+                    WIDTH="1926"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2186 1045 2159 1045 2131 1045 2104 1045 2076 1045 2049 1042 2021 1042 1994 1042 1966 1042 1939 1042 1911 1039 1884 1039 1856 1039 1829 1039 1801 1039 1774 1036 1746 1036 1719 1036 1691 1036 1664 1036 1636 1034 1609 1034 1581 1034 1554 1034 1526 1034 1501 1031 288 1034 291 1083 291 1097 2211 1094 2214 1078 2206 1039 2186 1045"/></Shape>
+	    <String CONTENT="Shocked with these lamentable sounds, and dreading he knew not what, he advanced"
+                    HPOS="288"
+                    VPOS="1031"
+                    WIDTH="1926"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74f4724c"
+                    TAGREFS="LT723"
+                    BASELINE="291 1144 2197 1149" 
+                    HPOS="288"
+                    VPOS="1091"
+                    WIDTH="1909"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="291 1144 288 1155 2192 1160 2197 1149 2195 1100 291 1091 291 1144"/></Shape>
+	    <String CONTENT="hastily,–but what a sight for a father’s eyes!–he beheld his child dashed to pieces,"
+                    HPOS="288"
+                    VPOS="1091"
+                    WIDTH="1909"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f357de7b"
+                    TAGREFS="LT723"
+                    BASELINE="291 1215 2197 1210" 
+                    HPOS="288"
+                    VPOS="1163"
+                    WIDTH="1909"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="291 1215 291 1229 2195 1223 2197 1210 2189 1163 288 1166 291 1215"/></Shape>
+	    <String CONTENT="and almost buried under an enormous helmet, an hundred times more large than any"
+                    HPOS="288"
+                    VPOS="1163"
+                    WIDTH="1909"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff673256"
+                    TAGREFS="LT723"
+                    BASELINE="288 1278 2137 1278" 
+                    HPOS="288"
+                    VPOS="1229"
+                    WIDTH="1849"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="288 1278 288 1295 2134 1295 2137 1278 2134 1229 288 1229 288 1278"/></Shape>
+	    <String CONTENT=" casque ever made for human being, and shaded with a proportionable quantity of"
+                    HPOS="288"
+                    VPOS="1229"
+                    WIDTH="1849"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45039fe6"
+                    TAGREFS="LT723"
+                    BASELINE="288 1344 638 1339" 
+                    HPOS="286"
+                    VPOS="1281"
+                    WIDTH="352"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="533 1281 506 1281 478 1281 473 1281 286 1292 288 1344 288 1355 638 1350 638 1339 632 1292 536 1281 533 1281"/></Shape>
+	    <String CONTENT="black feathers."
+                    HPOS="286"
+                    VPOS="1281"
+                    WIDTH="352"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_658a90ed"
+                    TAGREFS="LT723"
+                    BASELINE="294 1446 2109 1441" 
+                    HPOS="291"
+                    VPOS="1388"
+                    WIDTH="1818"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="294 1446 294 1460 2107 1454 2109 1441 2104 1391 291 1388 294 1446"/></Shape>
+	    <String CONTENT="The horror of the spectacle, the ignorance of all around how this misfortune had"
+                    HPOS="291"
+                    VPOS="1388"
+                    WIDTH="1818"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b720245"
+                    TAGREFS="LT723"
+                    BASELINE="291 1509 2134 1504" 
+                    HPOS="288"
+                    VPOS="1460"
+                    WIDTH="1846"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="291 1509 291 1523 2131 1518 2134 1504 2129 1460 288 1460 291 1509"/></Shape>
+	    <String CONTENT="happened, and above all, the tremendous phenomenon before him, took away the"
+                    HPOS="288"
+                    VPOS="1460"
+                    WIDTH="1846"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfc54254"
+                    TAGREFS="LT723"
+                    BASELINE="291 1575 2148 1575" 
+                    HPOS="291"
+                    VPOS="1523"
+                    WIDTH="1857"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="291 1540 291 1575 291 1589 2148 1589 2148 1575 2148 1526 305 1523 291 1540"/></Shape>
+	    <String CONTENT="Prince’s speech. Yet his silence lasted longer than even grief could occasion. He"
+                    HPOS="291"
+                    VPOS="1523"
+                    WIDTH="1857"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51bb924f"
+                    TAGREFS="LT723"
+                    BASELINE="291 1636 2244 1636" 
+                    HPOS="291"
+                    VPOS="1589"
+                    WIDTH="1953"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2217 1592 2214 1589 291 1589 291 1636 291 1652 2244 1652 2244 1636 2236 1614 2217 1592"/></Shape>
+	    <String CONTENT="fixed his eyes on what he wished in vain to believe a vision; and seemed less attentive"
+                    HPOS="291"
+                    VPOS="1589"
+                    WIDTH="1953"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a95b5e7"
+                    TAGREFS="LT723"
+                    BASELINE="291 1705 2164 1699" 
+                    HPOS="288"
+                    VPOS="1652"
+                    WIDTH="1876"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="291 1705 291 1718 2162 1713 2164 1699 2156 1652 288 1655 291 1705"/></Shape>
+	    <String CONTENT="to his loss, than buried in meditation on the stupendous object that had occasioned"
+                    HPOS="288"
+                    VPOS="1652"
+                    WIDTH="1876"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e79958b"
+                    TAGREFS="LT723"
+                    BASELINE="288 1768 2184 1768" 
+                    HPOS="288"
+                    VPOS="1718"
+                    WIDTH="1896"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="288 1768 288 1782 2184 1782 2184 1768 2184 1721 288 1718 288 1768"/></Shape>
+	    <String CONTENT="it. He touched, he examined the fatal casque; nor could even the bleeding mangled"
+                    HPOS="288"
+                    VPOS="1718"
+                    WIDTH="1896"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dded5898"
+                    TAGREFS="LT723"
+                    BASELINE="291 1831 2203 1831" 
+                    HPOS="291"
+                    VPOS="1784"
+                    WIDTH="1912"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="291 1831 291 1848 2203 1848 2203 1831 2203 1784 291 1784 291 1831"/></Shape>
+	    <String CONTENT=" remains of the young Prince divert the eyes of Manfred from the portent before him."
+                    HPOS="291"
+                    VPOS="1784"
+                    WIDTH="1912"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f42f80f"
+                    TAGREFS="LT723"
+                    BASELINE="291 1936 2236 1936" 
+                    HPOS="291"
+                    VPOS="1886"
+                    WIDTH="1945"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2230 1886 291 1886 291 1936 291 1949 2236 1949 2236 1936 2236 1919 2230 1886"/></Shape>
+	    <String CONTENT="All who had known his partial fondness for young Conrad, were as much surprised at"
+                    HPOS="291"
+                    VPOS="1886"
+                    WIDTH="1945"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15160bda"
+                    TAGREFS="LT723"
+                    BASELINE="291 2002 2030 1996" 
+                    HPOS="288"
+                    VPOS="1938"
+                    WIDTH="1742"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="291 2002 291 2015 2027 2010 2030 1996 2024 1949 305 1938 302 1938 299 1938 297 1938 297 1941 288 1947 291 2002"/></Shape>
+	    <String CONTENT="their Prince&#39;s insensibility, as thunderstruck themselves at the miracle of the"
+                    HPOS="288"
+                    VPOS="1938"
+                    WIDTH="1742"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4acfba2"
+                    TAGREFS="LT723"
+                    BASELINE="291 2065 2239 2059" 
+                    HPOS="288"
+                    VPOS="2013"
+                    WIDTH="1951"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2214 2046 2203 2013 288 2013 291 2065 291 2079 2236 2073 2239 2059 2233 2013 2219 2013 2214 2046"/></Shape>
+	    <String CONTENT="helmet. They conveyed the disfigured corpse into the hall, without receiving the least"
+                    HPOS="288"
+                    VPOS="2013"
+                    WIDTH="1951"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bdfb709e"
+                    TAGREFS="LT723"
+                    BASELINE="291 2128 2200 2128" 
+                    HPOS="291"
+                    VPOS="2081"
+                    WIDTH="1909"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="291 2128 291 2145 2200 2145 2200 2128 2200 2081 291 2081 291 2128"/></Shape>
+	    <String CONTENT=" direction from Manfred. As little was he attentive to the ladies who remained in the"
+                    HPOS="291"
+                    VPOS="2081"
+                    WIDTH="1909"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_714dd1d1"
+                    TAGREFS="LT723"
+                    BASELINE="291 2189 2164 2194" 
+                    HPOS="288"
+                    VPOS="2139"
+                    WIDTH="1876"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="291 2156 291 2189 288 2200 2159 2205 2164 2194 2162 2145 308 2139 291 2156"/></Shape>
+	    <String CONTENT="chapel. On the contrary, without mentioning the unhappy princesses, his wife and"
+                    HPOS="288"
+                    VPOS="2139"
+                    WIDTH="1876"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7d031c4"
+                    TAGREFS="LT723"
+                    BASELINE="288 2257 2181 2257" 
+                    HPOS="288"
+                    VPOS="2211"
+                    WIDTH="1893"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="288 2257 288 2274 2181 2274 2181 2257 2181 2211 288 2211 288 2257"/></Shape>
+	    <String CONTENT="daughter, the first sounds that dropped from Manfred’s lips were, “Take care of the"
+                    HPOS="288"
+                    VPOS="2211"
+                    WIDTH="1893"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2deb555"
+                    TAGREFS="LT723"
+                    BASELINE="291 2323 669 2326" 
+                    HPOS="288"
+                    VPOS="2263"
+                    WIDTH="380"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="288 2321 288 2332 665 2332 668 2323 665 2279 577 2263 574 2263 288 2268 288 2321"/></Shape>
+	    <String CONTENT="Lady Isabella.&quot;"
+                    HPOS="288"
+                    VPOS="2263"
+                    WIDTH="380"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7fc75c5"
+                    TAGREFS="LT723"
+                    BASELINE="294 2428 2151 2417" 
+                    HPOS="291"
+                    VPOS="2370"
+                    WIDTH="1860"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="294 2428 294 2442 2148 2431 2151 2417 2145 2370 291 2370 294 2428"/></Shape>
+	    <String CONTENT="The domestics, without observing the singularity of this direction, were guided by"
+                    HPOS="291"
+                    VPOS="2370"
+                    WIDTH="1860"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_345676f3"
+                    TAGREFS="LT723"
+                    BASELINE="291 2491 2217 2491" 
+                    HPOS="291"
+                    VPOS="2442"
+                    WIDTH="1926"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="291 2491 291 2505 2217 2505 2217 2491 2217 2442 291 2442 291 2491"/></Shape>
+	    <String CONTENT="their affection to their mistress, to consider it as peculiarly addressed to her situation,"
+                    HPOS="291"
+                    VPOS="2442"
+                    WIDTH="1926"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bba1ae7a"
+                    TAGREFS="LT723"
+                    BASELINE="291 2552 2206 2557" 
+                    HPOS="288"
+                    VPOS="2502"
+                    WIDTH="1918"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="291 2552 288 2560 2200 2565 2206 2557 2203 2508 291 2502 291 2552"/></Shape>
+	    <String CONTENT="and flew to her assistance. They conveyed her to her chamber more dead than alive,"
+                    HPOS="288"
+                    VPOS="2502"
+                    WIDTH="1918"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4807fd25"
+                    TAGREFS="LT723"
+                    BASELINE="291 2620 2233 2620" 
+                    HPOS="291"
+                    VPOS="2571"
+                    WIDTH="1942"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2217 2609 2195 2571 291 2571 291 2620 291 2637 2233 2637 2233 2620 2222 2601 2217 2609"/></Shape>
+	    <String CONTENT=" and indifferent to all the strange circumstances she heard, except the death of her son."
+                    HPOS="291"
+                    VPOS="2571"
+                    WIDTH="1942"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bfb2d2a4"
+                    TAGREFS="LT723"
+                    BASELINE="291 2717 2134 2722" 
+                    HPOS="288"
+                    VPOS="2662"
+                    WIDTH="1846"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="291 2717 288 2728 2129 2733 2134 2722 2131 2670 291 2662 291 2717"/></Shape>
+	    <String CONTENT="Matilda, who doted on her mother, smothered her own grief and amazement, and"
+                    HPOS="288"
+                    VPOS="2662"
+                    WIDTH="1846"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78e0a4cc"
+                    TAGREFS="LT723"
+                    BASELINE="291 2785 2167 2785" 
+                    HPOS="291"
+                    VPOS="2785"
+                    WIDTH="1876"
+                    HEIGHT="20">
+            <Shape><Polygon POINTS="2167 2805 2167 2785 2162 2785 2134 2785 2107 2785 2079 2785 2052 2785 2024 2785 1997 2785 1969 2785 1942 2785 1914 2785 1887 2785 1859 2785 1832 2785 1804 2785 1777 2785 1749 2785 1722 2785 1694 2785 1666 2785 1639 2785 1611 2785 1584 2785 1556 2785 1529 2785 1501 2785 1474 2785 1446 2785 1419 2785 1391 2785 1364 2785 1334 2785 1309 2785 1281 2785 1254 2785 1226 2785 1199 2785 1171 2785 1144 2785 1116 2785 1089 2785 1061 2785 1034 2785 1006 2785 979 2785 951 2785 924 2785 896 2785 869 2785 841 2785 814 2785 786 2785 759 2785 731 2785 704 2785 676 2785 649 2785 621 2785 594 2785 566 2785 539 2785 511 2785 484 2785 456 2785 429 2785 401 2785 374 2785 346 2785 319 2785 291 2785 291 2805"/></Shape>
+	    <String CONTENT="thought of nothing but assisting and comforting her afflicted parent. Isabella, who"
+                    HPOS="291"
+                    VPOS="2785"
+                    WIDTH="1876"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="141"
+                   VPOS="2886"
+                   WIDTH="988"
+                   HEIGHT="285"
+                   ID="eSc_textblock_ccd3f4e5"
+                   TAGREFS="BT1809">
+          <Shape><Polygon POINTS="141 2890 141 3171 1129 3167 1129 2886"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_473b8d1d"
+                    TAGREFS="LT723"
+                    BASELINE="145 2944 1129 2947" 
+                    HPOS="140"
+                    VPOS="2906"
+                    WIDTH="987"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="143 2942 140 2959 1122 2961 1127 2945 1125 2909 159 2906 143 2942"/></Shape>
+	    <String CONTENT="Source URL: http://www.gutenberg.org/files/696/696-h/696-h.htm"
+                    HPOS="140"
+                    VPOS="2906"
+                    WIDTH="987"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbeb9cbb"
+                    TAGREFS="LT723"
+                    BASELINE="137 3002 945 2998" 
+                    HPOS="132"
+                    VPOS="2948"
+                    WIDTH="811"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="929 2953 902 2953 874 2953 847 2953 819 2953 792 2953 764 2953 737 2953 709 2953 682 2953 654 2953 627 2953 599 2953 572 2953 544 2953 517 2953 489 2953 462 2953 434 2953 407 2953 379 2953 352 2953 324 2953 297 2953 269 2953 242 2953 214 2953 187 2953 159 2953 156 2948 132 2948 134 3000 134 3008 940 3005 943 2997 935 2953 929 2953"/></Shape>
+	    <String CONTENT="Saylor URL: http://www.saylor.org/courses/engl101/"
+                    HPOS="132"
+                    VPOS="2948"
+                    WIDTH="811"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36deb2b8"
+                    TAGREFS="LT723"
+                    BASELINE="152 3148 791 3148" 
+                    HPOS="151"
+                    VPOS="3088"
+                    WIDTH="638"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="151 3146 151 3159 789 3159 789 3146 789 3099 151 3088 151 3146"/></Shape>
+	    <String CONTENT="This work is in the public domain."
+                    HPOS="151"
+                    VPOS="3088"
+                    WIDTH="638"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2141"
+                   VPOS="3040"
+                   WIDTH="277"
+                   HEIGHT="127"
+                   ID="eSc_textblock_6927e4f5"
+                   TAGREFS="BT1809">
+          <Shape><Polygon POINTS="2141 3040 2141 3167 2418 3167 2418 3040"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f02917d2"
+                    TAGREFS="LT723"
+                    BASELINE="2206 3086 2432 3092" 
+                    HPOS="2200"
+                    VPOS="3047"
+                    WIDTH="231"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="2203 3085 2200 3096 2426 3102 2431 3091 2431 3052 2203 3047 2203 3085"/></Shape>
+	    <String CONTENT="Saylor.org"
+                    HPOS="2200"
+                    VPOS="3047"
+                    WIDTH="231"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bdfccdf"
+                    TAGREFS="LT723"
+                    BASELINE="2153 3156 2429 3152" 
+                    HPOS="2148"
+                    VPOS="3096"
+                    WIDTH="280"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2395 3102 2368 3099 2340 3099 2321 3096 2148 3096 2151 3154 2151 3162 2428 3162 2428 3151 2420 3096 2393 3096 2395 3102"/></Shape>
+	    <String CONTENT="Page 7 of 87"
+                    HPOS="2148"
+                    VPOS="3096"
+                    WIDTH="280"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
