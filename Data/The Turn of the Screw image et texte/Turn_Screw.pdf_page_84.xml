@@ -27,11 +27,11 @@
         
         <TextBlock HPOS="201"
                    VPOS="141"
-                   WIDTH="66"
-                   HEIGHT="66"
+                   WIDTH="73"
+                   HEIGHT="70"
                    ID="eSc_textblock_455408e0"
                    TAGREFS="BT1806">
-          <Shape><Polygon POINTS="201 141 201 207 267 204 267 163 267 141"/></Shape>
+          <Shape><Polygon POINTS="201 141 201 207 274 211 274 160 270 141"/></Shape>
           
           
           <TextLine ID="eSc_line_6c9d6113"
@@ -47,33 +47,6 @@
                     VPOS="144"
                     WIDTH="64"
                     HEIGHT="60"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="469"
-                   VPOS="134"
-                   WIDTH="699"
-                   HEIGHT="91"
-                   ID="eSc_textblock_b4dbc0b9"
-                   TAGREFS="BT1805">
-          <Shape><Polygon POINTS="477 134 469 221 1168 225 1164 138"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_d23de7c2"
-                    TAGREFS="LT719"
-                    BASELINE="489 191 1168 199" 
-                    HPOS="484"
-                    VPOS="144"
-                    WIDTH="683"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="484 195 1163 201 1167 197 1167 153 486 144 486 189"/></Shape>
-	    <String CONTENT="THE TURN OF THE SCREW"
-                    HPOS="484"
-                    VPOS="144"
-                    WIDTH="683"
-                    HEIGHT="57"></String>
           </TextLine>
 
           
@@ -123,13 +96,13 @@
           
           
           <TextLine ID="eSc_line_2a44c122"
-                    
+                    TAGREFS="LT718"
                     BASELINE="204 461 672 461" 
                     HPOS="201"
                     VPOS="425"
                     WIDTH="470"
                     HEIGHT="44">
-            <Shape><Polygon POINTS="201 459 201 469 671 469 671 459 671 425 201 425 201 459"/></Shape>
+            <Shape><Polygon POINTS="201 469 671 469 671 459 671 425 201 425 201 459"/></Shape>
 	    <String CONTENT="to give him no worry.&quot;"
                     HPOS="201"
                     VPOS="425"
@@ -157,7 +130,7 @@
           
           
           <TextLine ID="eSc_line_8055b175"
-                    
+                    TAGREFS="LT718"
                     BASELINE="209 570 1295 579" 
                     HPOS="206"
                     VPOS="527"
@@ -560,6 +533,33 @@
                     VPOS="1846"
                     WIDTH="955"
                     HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="469"
+                   VPOS="134"
+                   WIDTH="720"
+                   HEIGHT="87"
+                   ID="eSc_textblock_b4dbc0b9"
+                   TAGREFS="BT1805">
+          <Shape><Polygon POINTS="477 134 469 221 1189 218 1185 138"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d23de7c2"
+                    TAGREFS="LT719"
+                    BASELINE="489 191 1168 199" 
+                    HPOS="484"
+                    VPOS="144"
+                    WIDTH="683"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="484 195 1163 201 1167 197 1167 153 486 144 486 189"/></Shape>
+	    <String CONTENT="THE TURN OF THE SCREW"
+                    HPOS="484"
+                    VPOS="144"
+                    WIDTH="683"
+                    HEIGHT="57"></String>
           </TextLine>
 
           

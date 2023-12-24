@@ -527,23 +527,6 @@
 
           
           
-          <TextLine ID="eSc_line_e48a4072"
-                    
-                    BASELINE="660 2298 664 2302 675 2313" 
-                    HPOS="646"
-                    VPOS="2271"
-                    WIDTH="44"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="657 2296 646 2304 665 2321 673 2312 690 2285 676 2271 657 2296"/></Shape>
-	    <String CONTENT=""
-                    HPOS="646"
-                    VPOS="2271"
-                    WIDTH="44"
-                    HEIGHT="50"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_3488648b"
                     TAGREFS="LT752"
                     BASELINE="368 2400 2178 2400" 
