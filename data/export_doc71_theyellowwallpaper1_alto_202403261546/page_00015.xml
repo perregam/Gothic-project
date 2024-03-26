@@ -329,13 +329,13 @@
                     WC="0.9970101745505082"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="782"
-                   VPOS="2019"
-                   WIDTH="96"
-                   HEIGHT="59"
+        <TextBlock HPOS="801"
+                   VPOS="2018"
+                   WIDTH="77"
+                   HEIGHT="61"
                    ID="eSc_textblock_bae43db5"
                    TAGREFS="BT15">
-          <Shape><Polygon POINTS="782 2019 782 2078 878 2078 878 2019"/></Shape>
+          <Shape><Polygon POINTS="801 2018 801 2079 878 2078 878 2019"/></Shape>
           <TextLine ID="eSc_line_3b1e2b79"
                     TAGREFS="LT8"
                     BASELINE="806 2065 853 2065 868 2059" 
